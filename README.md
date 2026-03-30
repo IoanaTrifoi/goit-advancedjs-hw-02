@@ -1,5 +1,3 @@
-Iată un model de README.md în limba engleză, structurat special pentru cerințele temei tale nr. 2. Acesta explică clar funcționalitățile și modul de utilizare a celor două aplicații: Timer și Snackbar.
-
 GoIT Advanced JS - Homework 02
 This project focuses on asynchronous JavaScript, including timers and the creation/handling of Promises. It is built using the Vite build tool.
 
